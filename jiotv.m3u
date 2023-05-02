@@ -2119,6 +2119,11 @@ https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
 https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" group-title="Sony Liv",SONY MARATHI
 https://dai.google.com/linear/hls/event/I2phC6tgTDuJngxw9gJgPw/master.m3u8
-#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_aath.png" group-title="Sony Liv",SONY AATH 
-https://dai.google.com/linear/hls/event/j-YEIDwORxubtP_967VcZg/master.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_aath.png" group-title="Sony Liv",TeN SPORTS 
+https:///crichd/gocast.php?id=tenspk
+#EXTINF:-1 tvg-logo="https://mhdtvworld.me/wp-content/uploads/2022/02/arydigi-185x278.webp" group-title="Pakistan TV",Ary Digital HD 
+https://arydigital.aryzap.com/8d1502d23a93dc2840649b2d8c5b990c/6452101b/v1/0183ea2408f90b8ed5941a38bc72/0183ea24302d0b8ed5941a38bc75/main.m3u8
+#EXTINF:-1 tvg-logo="https://mhdtvworld.me/wp-content/uploads/2022/02/geohd-185x278.webp" group-title="Pakistan TV",Geo HD 
+https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
+
 

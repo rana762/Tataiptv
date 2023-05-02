@@ -3,27 +3,27 @@
 https://prod-sports-south-gm.jiocinema.com/bpk-tv/M1_IPL23_Eng_HD_IDC_BTS/Fallback/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.timesofsports.com/wp-content/uploads/2021/04/watch-ipl-live-streaming-696x465.jpg" group-title="Live Cricket",IPL Punjabi
 https://prod-sports-south-gm.jiocinema.com/bpk-tv/M1_IPL23_Eng_HD_IDC_BTS/Fallback/index.m3u8
-#EXTINF:-1 tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/njoi/cricket.png" group-title="Live Cricket" Astro Cricket
+#EXTINF:-1 tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/njoi/cricket.png" group-title="Live Cricket", Astro Cricket
 http://freecatv-manik.xyz/Astro-Cricket-HD.m3u8
-#EXTINF:-1 tvg-logo="https://mhdtvworld.me/wp-content/uploads/2021/09/imagskyspcric-185x278.webp" group-title="Live Cricket" SKY CRICKET
+#EXTINF:-1 tvg-logo="https://mhdtvworld.me/wp-content/uploads/2021/09/imagskyspcric-185x278.webp" group-title="Live Cricket", SKY CRICKET
 http://freecatv-manik.xyz/SKYSPORTS~CRICKET.ts
-#EXTINF:-1 tvg-logo="https://mhdtvworld.me/wp-content/uploads/2021/06/images-1-2-185x278.png" group-title="Live Cricket" WILLOW CRICKET
+#EXTINF:-1 tvg-logo="https://mhdtvworld.me/wp-content/uploads/2021/06/images-1-2-185x278.png" group-title="Live Cricket", WILLOW CRICKET
 http://freecatv-manik.xyz/WILLOW-CRICKET.ts
-#EXTINF:-1 tvg-logo="https://mhdtvworld.me/wp-content/uploads/2021/09/imagskyspcric-185x278.webp" group-title="Live Cricket" SKY CRICKET FHD
+#EXTINF:-1 tvg-logo="https://mhdtvworld.me/wp-content/uploads/2021/09/imagskyspcric-185x278.webp" group-title="Live Cricket", SKY CRICKET FHD
 http://freecatv-manik.xyz/Sky-Sports-Cricket-FHD.ts
-#EXTINF:-1 tvg-logo="https://mhdtvworld.me/wp-content/uploads/2020/12/spcric-185x278.webp" group-title="Live Cricket" Super Sports Cricket HD
+#EXTINF:-1 tvg-logo="https://mhdtvworld.me/wp-content/uploads/2020/12/spcric-185x278.webp" group-title="Live Cricket", Super Sports Cricket HD
 http://freecatv-manik.xyz/Super-Sports-Cricket.ts
-#EXTINF:-1 tvg-logo="https://mhdtvworld.me/wp-content/uploads/2020/12/spcric-185x278.webp" group-title="Live Cricket" Super VARIETY-4
+#EXTINF:-1 tvg-logo="https://mhdtvworld.me/wp-content/uploads/2020/12/spcric-185x278.webp" group-title="Live Cricket", Super VARIETY-4
 http://freecatv-manik.xyz/DSTV-Variety-4.ts
-#EXTINF:-1 tvg-logo="https://mhdtvworld.me/wp-content/uploads/2020/12/spcric-185x278.webp" group-title="Live Cricket" Super VARIETY-3
+#EXTINF:-1 tvg-logo="https://mhdtvworld.me/wp-content/uploads/2020/12/spcric-185x278.webp" group-title="Live Cricket", Super VARIETY-3
 http://freecatv-manik.xyz/DSTV-variety-3.ts
-#EXTINF:-1 tvg-logo="https://mhdtvworld.me/wp-content/uploads/2022/03/ptvsp-185x278.webp" group-title="Live Cricket" PTV Sports
+#EXTINF:-1 tvg-logo="https://mhdtvworld.me/wp-content/uploads/2022/03/ptvsp-185x278.webp" group-title="Live Cricket" ,PTV Sports
 http://180.178.188.152:8000/play/a075
-#EXTINF:-1 tvg-logo="https://mhdtvworld.me/wp-content/uploads/2023/04/jio2-90x135.png" group-title="Live Cricket" Sony LIV
+#EXTINF:-1 tvg-logo="https://mhdtvworld.me/wp-content/uploads/2023/04/jio2-90x135.png" group-title="Live Cricket", Sony LIV
 https://dai.google.com/linear/hls/event/5qTBYna8R8SzYpzFGIngag/master.m3u8
-#EXTINF:-1 tvg-logo="https://mhdtvworld.me/wp-content/uploads/2022/03/ptvsp-185x278.webp" group-title="Live Cricket" PTV SPORTS
+#EXTINF:-1 tvg-logo="https://mhdtvworld.me/wp-content/uploads/2022/03/ptvsp-185x278.webp" group-title="Live Cricket", PTV SPORTS
 https://dai.google.com/linear/hls/event/5qTBYna8R8SzYpzFGIngag/master.m3u8
-#EXTINF:-1 tvg-logo="https://mhdtvworld.me/wp-content/uploads/2021/09/foxcrik-185x278.webp" group-title="Live Cricket"Fox Cricket
+#EXTINF:-1 tvg-logo="https://mhdtvworld.me/wp-content/uploads/2021/09/foxcrik-185x278.webp" group-title="Live Cricket",Fox Cricket
 http://hostengine.live/live/wrecks82/habsiptv82/57493.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Sony Liv",SONY HD
 https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8

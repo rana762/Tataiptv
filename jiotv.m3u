@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/mitthu786/tvepg/main/aioepg.xml.gz"
-#EXTINF:-1 tvg-logo="https://www.timesofsports.com/wp-content/uploads/2021/04/watch-ipl-live-streaming-696x465.jpg" group-title="Live Cricket" IPL ENglish
+#EXTINF:-1 tvg-logo="https://www.timesofsports.com/wp-content/uploads/2021/04/watch-ipl-live-streaming-696x465.jpg" group-title="Live Cricket", IPL ENglish
 https://prod-sports-south-gm.jiocinema.com/bpk-tv/M1_IPL23_Eng_HD_IDC_BTS/Fallback/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.timesofsports.com/wp-content/uploads/2021/04/watch-ipl-live-streaming-696x465.jpg" group-title="Live Cricket",IPL Punjabi
 https://prod-sports-south-gm.jiocinema.com/bpk-tv/M1_IPL23_Eng_HD_IDC_BTS/Fallback/index.m3u8

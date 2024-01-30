@@ -1,0 +1,265 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dy7R2Hd0/A-Sports-HD.png", A Sports HD
+https://lamsom.co.uk/crichd/crichd.php?id=asportshd&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d2Cq1qw/BT-Sports-1-HD.png", BT Sport 1
+https://lamsom.co.uk/crichd/crichd.php?id=bbtsp1&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RZTvGwSp/BT-Sports-2-HD.png", BT Sport 2
+https://lamsom.co.uk/crichd/crichd.php?id=bbtsp2&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jh4MFttr/BT-Sports-3-HD.png", BT Sport 3
+https://lamsom.co.uk/crichd/crichd.php?id=bbtsp3&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/K4SmpN3w/BT-Sport-4.png", BT Sport 4
+https://lamsom.co.uk/crichd/crichd.php?id=bbtespn&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BbMvhyG6/Bein-Sports.png", Bein Sports 1 AR
+https://lamsom.co.uk/crichd/crichd.php?id=bein1arab&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GpCtMcnz/Bein-Sports-HD-1.png", Bein Sports 1 English
+https://lamsom.co.uk/crichd/crichd.php?id=bein1en&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJPp7cgn/Bein-Sports-1-FR.png", Bein Sports 1 FR
+https://lamsom.co.uk/crichd/crichd.php?id=bein1fr&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6QtbL1zg/Bein-Sports-Premium-1.png", Bein Sports 1 Premium
+https://lamsom.co.uk/crichd/crichd.php?id=bein1prem&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BbMvhyG6/Bein-Sports.png", Bein Sports 2 AR
+https://lamsom.co.uk/crichd/crichd.php?id=bein2arab&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZKNJX1cQ/Bein-Sports-HD2.png", Bein Sports 2 English
+https://lamsom.co.uk/crichd/crichd.php?id=bein2en&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mZYvMCbP/Bein-Sports-2-FR.png", Bein Sports 2 FR
+https://lamsom.co.uk/crichd/crichd.php?id=bein2fr&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6q2Mps52/Bein-Sports-Premium-2.png", Bein Sports 2 Premium
+https://lamsom.co.uk/crichd/crichd.php?id=bein2prem&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BbMvhyG6/Bein-Sports.png", Bein Sports 3 AR
+https://lamsom.co.uk/crichd/crichd.php?id=bein3arab&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Z5k6Szhv/Bein-Sports-HD-3.png", Bein Sports 3 English
+https://lamsom.co.uk/crichd/crichd.php?id=bein3en&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2VKp41R/Bein-Sports-3-FR.png", Bein Sports 3 FR
+https://lamsom.co.uk/crichd/crichd.php?id=bein3fr&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/k5jrVm9f/Bein-Sports-Premium-3.png", Bein Sports 3 Premium
+https://lamsom.co.uk/crichd/crichd.php?id=bein3prem&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BbMvhyG6/Bein-Sports.png", Bein Sports 4 AR
+https://lamsom.co.uk/crichd/crichd.php?id=bein4arab&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BbMvhyG6/Bein-Sports.png", Bein Sports 5 AR
+https://lamsom.co.uk/crichd/crichd.php?id=bein5arab&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BbMvhyG6/Bein-Sports.png", Bein Sports 6 AR
+https://lamsom.co.uk/crichd/crichd.php?id=bein6arab&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BbMvhyG6/Bein-Sports.png", Bein Sports 7 AR
+https://lamsom.co.uk/crichd/crichd.php?id=bein7arab&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/K8s3JXvH/Eurosport-1.png", EuroSport 1
+https://lamsom.co.uk/crichd/crichd.php?id=eurosp1&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Px1LXPbg/Eurosport-2.png", EuroSport 2
+https://lamsom.co.uk/crichd/crichd.php?id=eurosp2&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Gp4ZWDPj/Fox-Cricket.png", Fox Cricket 501 HD
+https://lamsom.co.uk/crichd/crichd.php?id=fox501&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0Nwjnb4z/Fox-Sports.png", Fox Sports 502 HD
+https://lamsom.co.uk/crichd/crichd.php?id=fox5022&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0Nwjnb4z/Fox-Sports.png", Fox Sports 503 HD
+https://lamsom.co.uk/crichd/crichd.php?id=fox503&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0Nwjnb4z/Fox-Sports.png", Fox Sports 504 HD
+https://lamsom.co.uk/crichd/crichd.php?id=fox504&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0Nwjnb4z/Fox-Sports.png", Fox Sports 505 HD
+https://lamsom.co.uk/crichd/crichd.php?id=fox505&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0Nwjnb4z/Fox-Sports.png", Fox Sports 506 HD
+https://lamsom.co.uk/crichd/crichd.php?id=fox506&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HnGhMPyJ/Geo-Super.png", Geo Super
+https://lamsom.co.uk/crichd/crichd.php?id=geosp&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mkMPrhYx/La-Liga-TV.png", LaLiga Tv
+https://lamsom.co.uk/crichd/crichd.php?id=laligauk&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5NzQ2Qss/PTV-Sports.png", PTV Sports
+https://lamsom.co.uk/crichd/crichd.php?id=ptvpk&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wjFZrVSP/Premier-Sports.png", Premier Sports 1
+https://lamsom.co.uk/crichd/crichd.php?id=premieruk&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wjFZrVSP/Premier-Sports.png", Premier Sports 2
+https://lamsom.co.uk/crichd/crichd.php?id=hdchnl2&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/t70T6yXK/Sky-Sports-Action.png", Sky Sports Action
+https://lamsom.co.uk/crichd/crichd.php?id=skysact&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PqG5FdYN/Sky-Sports-Arena.png", Sky Sports Arena
+https://lamsom.co.uk/crichd/crichd.php?id=skysare&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x1J5Y37q/Sky-Sports-Cricket.png", Sky Sports Cricket
+https://lamsom.co.uk/crichd/crichd.php?id=skyscric&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63t5tzHX/Sky-Sports-F1.png", Sky Sports F1
+https://lamsom.co.uk/crichd/crichd.php?id=skysfor1&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7LPgh1tg/Sky-Sports-Football.png", Sky Sports Football
+https://lamsom.co.uk/crichd/crichd.php?id=skysfott&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qB1x3FHz/Sky-Sports-Golf.png", Sky Sports Golf
+https://lamsom.co.uk/crichd/crichd.php?id=skysgol&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nr32VRp9/Sky-Sports-Main-Event.png", Sky Sports Main Event
+https://lamsom.co.uk/crichd/crichd.php?id=skysme&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zDdXYCKs/Sky-Sports-Mix.png", Sky Sports Mix
+https://lamsom.co.uk/crichd/crichd.php?id=skysmixx&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/htmSmN6n/Sky-Sports-News.png", Sky Sports News
+https://lamsom.co.uk/crichd/crichd.php?id=skyspnews&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/85jMBpSc/Sky-Sports-Premiere-League.png", Sky Sports Premier League
+https://lamsom.co.uk/crichd/crichd.php?id=skysprem&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mD2B8h2h/Star-Sports-1-HD.png", Star Sports 1 HD
+https://lamsom.co.uk/crichd/crichd.php?id=star1in&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tg9j476D/Star-Sports-1-HD-Hindi.png", Star Sports 1 Hindi HD
+https://lamsom.co.uk/crichd/crichd.php?id=starhindi&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bwzkJHsq/Super-Cricket.png", Super Sport Cricket
+https://lamsom.co.uk/crichd/crichd.php?id=supercricket&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9Mhr8ZsD/Super-Sport-Action.png", SuperSport Action
+https://lamsom.co.uk/crichd/crichd.php?id=superactions&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8zgdQf8V/Super-Sport-Football.png", SuperSport Football
+https://lamsom.co.uk/crichd/crichd.php?id=superfotball&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ncgVSqDn/Super-Sport-Golf.png", SuperSport Golf
+https://lamsom.co.uk/crichd/crichd.php?id=supergolf&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0QzZ2gVg/Super-Sport-Grandstand.png", SuperSport Grandstand
+https://lamsom.co.uk/crichd/crichd.php?id=supergrandstand&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR6cP7b8/Super-Sport-La-Liga.png", SuperSport Laliga
+https://lamsom.co.uk/crichd/crichd.php?id=superlaliga&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4xw164Mk/Super-Sport-Maximo.png", SuperSport Maximo
+https://lamsom.co.uk/crichd/crichd.php?id=supermeximo&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzrBYvmq/Super-Sport-Premiere-League.png", SuperSport Premier
+https://lamsom.co.uk/crichd/crichd.php?id=superpremier&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgznPNgS/Super-Sport-Rugby.png", SuperSport Rugby
+https://lamsom.co.uk/crichd/crichd.php?id=supersrugby&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7YFDnDF6/Super-Sport-Tennis.png", SuperSport Tennis
+https://lamsom.co.uk/crichd/crichd.php?id=supertennis&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Gmhq4s2n/Super-Sport-Variety-1.png", SuperSport Variety 1
+https://lamsom.co.uk/crichd/crichd.php?id=hdchnl6&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrJ1pX55/Super-Sport-Variety-2.png", SuperSport Variety 2
+https://lamsom.co.uk/crichd/crichd.php?id=hdchnl7&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QdtJ8G4X/Super-Sport-Variety-3.png", SuperSport Variety 3
+https://lamsom.co.uk/crichd/crichd.php?id=hdchnl8&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/28HnX9zg/Super-Sport-Variety-4.png", SuperSport Variety 4
+https://lamsom.co.uk/crichd/crichd.php?id=hdchnl9&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cLbzBHqt/Ten-Sports.png", TEN Sports Pakistan
+https://lamsom.co.uk/crichd/crichd.php?id=tenspk&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRNmBsg7/WWE.png", WWE Network
+https://lamsom.co.uk/crichd/crichd.php?id=wwe&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XNCwDYR6/Willow.png", Willow HD
+https://lamsom.co.uk/crichd/crichd.php?id=willowusa&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KvQw4fJN/Willow-Xtra.png", Willow Xtra
+https://lamsom.co.uk/crichd/crichd.php?id=willowextra&e=.m3u8
+CDB2/video.m3u8
+#EXTINF:-1 ,DIGI Sport 3 HD RO
+http://nl.seetv.cc/play/11145/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Digi sport 4
+http://nl.seetv.cc/play/11071/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Digi24
+http://nl.seetv.cc/play/11072/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Eurosport 2
+http://nl.seetv.cc/play/11081/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Eurosport 2 HD
+http://nl.seetv.cc/play/11082/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Nova Sport HD
+http://nl.seetv.cc/play/1122/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Fox Sport 1 HD
+http://nl.seetv.cc/play/6046/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Fox Sport 2 HD
+http://nl.seetv.cc/play/6047/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,ESPN HD
+http://nl.seetv.cc/play/6252/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,ESPN 2
+http://nl.seetv.cc/play/6253/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,TVP Sport HD
+http://nl.seetv.cc/play/1910/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Fightklub HD PL
+http://nl.seetv.cc/play/1905/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Eleven Sports 1 HD
+http://nl.seetv.cc/play/1904/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Eleven Sports 2 HD
+http://nl.seetv.cc/play/1903/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Eleven Sports 3 HD
+http://nl.seetv.cc/play/5445/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Eleven Sports 4 HD
+http://nl.seetv.cc/play/5446/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,CANAL+ Sport 1 HD PL
+http://nl.seetv.cc/play/5460/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,CANAL+ Sport 2 HD PL
+http://nl.seetv.cc/play/1901/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,CANAL+ Sport 3 HD PL
+http://nl.seetv.cc/play/5462/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,CANAL+ Sport 4 HD PL
+http://nl.seetv.cc/play/5463/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,CANAL+ Sport 5 HD PL
+http://nl.seetv.cc/play/5464/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Eurosport 1 HD PL
+http://nl.seetv.cc/play/5453/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Eurosport 2 HD PL
+http://nl.seetv.cc/play/5454/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,FightBox HD
+http://nl.seetv.cc/play/5467/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Extreme Sport
+http://nl.seetv.cc/play/5469/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Polsat Sport News
+http://nl.seetv.cc/play/5455/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Polsat Sport
+http://nl.seetv.cc/play/5456/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Polsat Sport Extra
+http://nl.seetv.cc/play/5457/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Polsat Sport Fight
+http://nl.seetv.cc/play/5458/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Polsat Sport Premium 1 HD
+http://nl.seetv.cc/play/5447/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Polsat Sport Premium 2 HD
+http://nl.seetv.cc/play/5448/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Polsat Sport Premium 3 HD
+http://nl.seetv.cc/play/5449/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Polsat Sport Premium 5 HD
+http://nl.seetv.cc/play/5451/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 ,Polsat Sport Premium 6 HD
+http://nl.seetv.cc/play/5452/C94BDA70C92CDB2/video.m3u8
+
+#EXTINF:-1, bloginstall
+#EXTINF:-1, bloginstall.com
